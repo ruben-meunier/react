@@ -8,4 +8,4 @@ Hello world !
 
 ### /game
 
-Game tutorial : https://reactjs.org/tutorial/tutorial.html
+Interactive tic-tac-toe game tutorial : https://reactjs.org/tutorial/tutorial.html
