@@ -10,3 +10,4 @@ Hello world !
 
 Interactive tic-tac-toe game tutorial : https://reactjs.org/tutorial/tutorial.html
 
+Todo next : https://reactjs.org/tutorial/tutorial.html#declaring-a-winner
