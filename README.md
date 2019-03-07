@@ -1,8 +1,8 @@
-# react
+# React
 My projects to learn react.
 
 
-### /hello-world
+### [Hello-world](/hello-world/)
 
 Hello world !
 

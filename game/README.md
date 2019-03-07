@@ -1,5 +1,4 @@
-
-#Interactive tic-tac-toe game tutorial 
+# Interactive tic-tac-toe game tutorial 
 
 From  https://reactjs.org/tutorial/tutorial.html
 
